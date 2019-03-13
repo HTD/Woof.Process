@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
-<package >
+<package>
   <metadata>
-    <id>$id$</id>
+    <id>Woof.Process</id>
     <version>1.0.0</version>
-    <title>$title$</title>
+    <title>Woof.Process</title>
     <authors>Adam Łyskawa</authors>
     <owners>CodeDog</owners>
     <licenseUrl>https://en.wikipedia.org/wiki/MIT_License</licenseUrl>
@@ -12,6 +12,6 @@
     <description>Allows creating processes as user from SYSETM account, allows sending messages to existing processes.</description>
     <releaseNotes>Initial release.</releaseNotes>
     <copyright>(c)2019 by CodeDog Ltd.</copyright>
-    <tags>code codedog dotnet windows system</tags>
+    <tags>code codedog dotnet windows win32 system process</tags>
   </metadata>
 </package>
